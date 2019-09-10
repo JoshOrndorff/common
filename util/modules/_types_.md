@@ -8,7 +8,6 @@
 
 ### Interfaces
 
-* [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md)
 * [Logger](../interfaces/_types_.logger.md)
 * [ToBn](../interfaces/_types_.tobn.md)
 * [ToBnOptions](../interfaces/_types_.tobnoptions.md)
@@ -24,7 +23,7 @@
 
 Ƭ **BnList**: *object & BN[]*
 
-*Defined in [types.ts:36](https://github.com/polkadot-js/common/blob/5e494b7/packages/util/src/types.ts#L36)*
+*Defined in [types.ts:29](https://github.com/polkadot-js/common/blob/a5d2369/packages/util/src/types.ts#L29)*
 
 ___
 
@@ -32,4 +31,4 @@ ___
 
 Ƭ **Logger$Data**: *any[]*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/5e494b7/packages/util/src/types.ts#L21)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/a5d2369/packages/util/src/types.ts#L14)*

@@ -24,7 +24,6 @@
 * ["compact/stripLength"](modules/_compact_striplength_.md)
 * ["compact/toU8a"](modules/_compact_tou8a_.md)
 * ["compact/types"](modules/_compact_types_.md)
-* ["ext/error"](modules/_ext_error_.md)
 * ["format/formatBalance"](modules/_format_formatbalance_.md)
 * ["format/formatDecimal"](modules/_format_formatdecimal_.md)
 * ["format/formatElapsed"](modules/_format_formatelapsed_.md)

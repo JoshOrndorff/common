@@ -16,7 +16,7 @@
 
 ▸ **keyHdkdEd25519**(`keypair`: [Keypair](../interfaces/_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/5e494b7/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
+*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/a5d2369/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
 
 **Parameters:**
 

@@ -22,7 +22,7 @@
 
 • **content**: *["pkcs8", KeypairType]*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/5e494b7/packages/keyring/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/a5d2369/packages/keyring/src/types.ts#L22)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • **type**: *"xsalsa20-poly1305" | "none"*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/5e494b7/packages/keyring/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/a5d2369/packages/keyring/src/types.ts#L23)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • **version**: *[KeyringPair$JsonVersion](../modules/_types_.md#keyringpair$jsonversion)*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/5e494b7/packages/keyring/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/a5d2369/packages/keyring/src/types.ts#L24)*

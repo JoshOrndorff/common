@@ -14,16 +14,16 @@
 
 ###  assert
 
-▸ **assert**<**T**>(`test`: Falsy | T, `message`: string | MessageFn, `code`: number, `data?`: string | number): *boolean*
+▸ **assert**<**T**>(`test`: Falsy | T, `message`: string | MessageFn): *boolean*
 
-*Defined in [assert.ts:28](https://github.com/polkadot-js/common/blob/5e494b7/packages/util/src/assert.ts#L28)*
+*Defined in [assert.ts:27](https://github.com/polkadot-js/common/blob/a5d2369/packages/util/src/assert.ts#L27)*
 
 **`name`** assert
 
-**`summary`** Checks for a valid test, if not ExtError is thrown.
+**`summary`** Checks for a valid test, if not Error is thrown.
 
 **`description`** 
-Checks that `test` is a truthy value. If value is falsy (`null`, `undefined`, `false`, ...), it throws an ExtError with the supplied `message` and an optional `code` and `data`. When `test` passes, `true` is returned.
+Checks that `test` is a truthy value. If value is falsy (`null`, `undefined`, `false`, ...), it throws an Error with the supplied `message`. When `test` passes, `true` is returned.
 
 **`example`** 
 <BR>
@@ -32,8 +32,8 @@ Checks that `test` is a truthy value. If value is falsy (`null`, `undefined`, `f
 const { assert } from '@polkadot/util';
 
 assert(true, 'True should be true'); // true returned
-assert(false, 'False should not be true'); // ExtError thrown
-assert(false, () => 'message'); // ExtError with 'message'
+assert(false, 'False should not be true'); // Error thrown
+assert(false, () => 'message'); // Error with 'message'
 ```
 
 **Type parameters:**
@@ -42,11 +42,9 @@ assert(false, () => 'message'); // ExtError with 'message'
 
 **Parameters:**
 
-Name | Type | Default |
------- | ------ | ------ |
-`test` | Falsy \| T | - |
-`message` | string \| MessageFn | - |
-`code` | number |  ExtError.CODES.ASSERT |
-`data?` | string \| number | - |
+Name | Type |
+------ | ------ |
+`test` | Falsy \| T |
+`message` | string \| MessageFn |
 
 **Returns:** *boolean*
