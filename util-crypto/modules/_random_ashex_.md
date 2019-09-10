@@ -16,7 +16,7 @@
 
 ▸ **randomAsHex**(`length`: number): *string*
 
-*Defined in [random/asHex.ts:23](https://github.com/polkadot-js/common/blob/a5d2369/packages/util-crypto/src/random/asHex.ts#L23)*
+*Defined in [random/asHex.ts:23](https://github.com/polkadot-js/common/blob/dc55f21/packages/util-crypto/src/random/asHex.ts#L23)*
 
 **`name`** randomAsHex
 

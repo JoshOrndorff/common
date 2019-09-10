@@ -21,7 +21,7 @@
 
 • **decoded**: *Uint8Array | Uint8Array | Uint8Array[][]*
 
-*Defined in [decoder/types.ts:6](https://github.com/polkadot-js/common/blob/a5d2369/packages/util-rlp/src/decoder/types.ts#L6)*
+*Defined in [decoder/types.ts:6](https://github.com/polkadot-js/common/blob/dc55f21/packages/util-rlp/src/decoder/types.ts#L6)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **remainder**: *Uint8Array*
 
-*Defined in [decoder/types.ts:7](https://github.com/polkadot-js/common/blob/a5d2369/packages/util-rlp/src/decoder/types.ts#L7)*
+*Defined in [decoder/types.ts:7](https://github.com/polkadot-js/common/blob/dc55f21/packages/util-rlp/src/decoder/types.ts#L7)*

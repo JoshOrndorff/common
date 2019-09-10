@@ -16,7 +16,7 @@
 
 ▸ **sharedPrefixLength**(`first`: Uint8Array, `second`: Uint8Array): *number*
 
-*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/a5d2369/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
+*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/dc55f21/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
 
 **Parameters:**
 

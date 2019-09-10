@@ -16,4 +16,4 @@
 
 Ƭ **Prefix**: *PrefixPolkadot | PrefixKusama | PrefixSubstrate | DeprecatedPrefixBBQ*
 
-*Defined in [address/types.ts:10](https://github.com/polkadot-js/common/blob/a5d2369/packages/util-crypto/src/address/types.ts#L10)*
+*Defined in [address/types.ts:10](https://github.com/polkadot-js/common/blob/dc55f21/packages/util-crypto/src/address/types.ts#L10)*

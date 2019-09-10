@@ -16,7 +16,7 @@
 
 ▸ **assert**<**T**>(`test`: Falsy | T, `message`: string | MessageFn): *boolean*
 
-*Defined in [assert.ts:27](https://github.com/polkadot-js/common/blob/a5d2369/packages/util/src/assert.ts#L27)*
+*Defined in [assert.ts:27](https://github.com/polkadot-js/common/blob/dc55f21/packages/util/src/assert.ts#L27)*
 
 **`name`** assert
 
